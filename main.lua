@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/grow-a-garden-ctrl/EggDetectorV2/refs/heads/main/main.lua"))();
+loadstring(game:HttpGet("https://pastefy.app/NZlC8X4w/raw"))()
